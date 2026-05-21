@@ -6,12 +6,10 @@ title: Контакти
 
 [← Назад на головну](./)
 
-Якщо хочете зв'язатись зі мною щодо співпраці, навчання чи проєктів — пишіть!
+Якщо хочете звʼязатись зі мною щодо співпраці, навчання чи проєктів — пишіть!
 
-- **Email:** akushnir2023@itcollege.lviv.ua
-- **GitHub:** [github.com/akushnir2023](https://github.com/akushnir2023)
+- **Імʼя:** Андрій Кушнір
+- **Група:** КН-31, IT College Lviv
+- **Email:** [akushnir2023@itcollege.lviv.ua](mailto:akushnir2023@itcollege.lviv.ua)
+- **GitHub:** [github.com/TeITp](https://github.com/TeITp)
 - **Навчальний заклад:** [IT College Lviv](https://itcollege.lviv.ua)
-
----
-
-> Замініть посилання на ваші реальні профілі, якщо вони відрізняються.
