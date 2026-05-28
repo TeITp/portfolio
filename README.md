@@ -14,10 +14,11 @@
 
 ## Навички
 
-- **Мови програмування:** Python
-- **ООП:** класи, обʼєкти, наслідування, інкапсуляція, поліморфізм
-- **Інструменти:** Git, GitHub, `pip`, віртуальні середовища (`venv`)
-- **Веб:** HTML, Markdown, Jekyll, GitHub Pages
+- **Мови програмування:** Python, JavaScript
+- **ООП:** класи, обʼєкти, наслідування, інкапсуляція, поліморфізм, абстракція
+- **Інструменти:** Git, GitHub, `pip`, віртуальні середовища (`venv`), PyCharm
+- **Веб:** HTML, CSS, JavaScript, Markdown, Jekyll, GitHub Pages
+- **GUI:** CustomTkinter, PyInstaller
 - **ОС:** Linux (Ubuntu), Windows
 
 ---
